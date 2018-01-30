@@ -1,0 +1,4 @@
+.mode csv;
+.import car_info.csv car
+select * from car;
+
